@@ -1,0 +1,75 @@
+country,adm1,adm2,pop,classif,phase1,phase2,phase3,phase4,phase5,phase35,status
+Niger,Agadez,Aderbissinat,45105,1,36535.05,6314.7,2255.25,0,0,2255.25,outofcamp
+Niger,Agadez,Arlit,134122,2,88520.52,33530.5,12070.98,0,0,12070.98,outofcamp
+Niger,Agadez,Bilma,22904,2,14887.6,6184.08,1832.32,0,0,1832.32,outofcamp
+Niger,Agadez,Tchirozérine,161504,2,104977.6,46836.16,9690.24,0,0,9690.24,outofcamp
+Niger,Agadez,IFEROUANE,41799,2,29259.3,10449.75,2089.95,0,0,2089.95,outofcamp
+Niger,Agadez,Ingall,66283,2,35129.99,21210.56,9942.45,0,0,9942.45,outofcamp
+Niger,Diffa,Bosso,39212,3,13724.2,15684.8,9803,0,0,9803,outofcamp
+Niger,Diffa,Diffa Com,72099,2,39654.45,25234.65,7209.9,0,0,7209.9,outofcamp
+Niger,Diffa,Diffa_Département,131949,3,59377.05,39584.7,32987.25,0,0,32987.25,outofcamp
+Niger,Diffa,Goudoumaria,128466,2,91210.86,32116.5,5138.64,0,0,5138.64,outofcamp
+Niger,Diffa,Mainé Soroa,168203,2,92511.65,58871.05,16820.3,0,0,16820.3,outofcamp
+Niger,Diffa,N'Gourty,66133,2,39679.8,19839.9,6613.3,0,0,6613.3,outofcamp
+Niger,Diffa,N'guigmi,93737,3,29995.84,33745.32,28121.1,1874.74,0,29995.84,outofcamp
+Niger,Dosso,Boboye,339340,1,278258.8,57687.8,3393.4,0,0,3393.4,outofcamp
+Niger,Dosso,Djoundjou,147257,1,120750.74,20615.98,5890.28,0,0,5890.28,outofcamp
+Niger,Dosso,Dosso,541969,1,444414.58,81295.35,16259.07,0,0,16259.07,outofcamp
+Niger,Dosso,Doutchi,500382,1,420320.88,70053.48,10007.64,0,0,10007.64,outofcamp
+Niger,Dosso,Falmey,138735,1,113762.7,20810.25,4162.05,0,0,4162.05,outofcamp
+Niger,Dosso,GAYA,351486,1,305792.82,38663.46,7029.72,0,0,7029.72,outofcamp
+Niger,Dosso,Loga,235825,2,179227,49523.25,7074.75,0,0,7074.75,outofcamp
+Niger,Dosso,Tibiri,362741,1,308329.85,47156.33,7254.82,0,0,7254.82,outofcamp
+Niger,Maradi,Aguié,339495,3,115428.3,135798,84873.75,3394.95,0,88268.7,outofcamp
+Niger,Maradi,Bermo,72143,2,34628.64,28857.2,8657.16,0,0,8657.16,outofcamp
+Niger,Maradi,Dakoro,870034,2,609023.8,217508.5,43501.7,0,0,43501.7,outofcamp
+Niger,Maradi,Gazaoua,221553,1,181673.46,33232.95,6646.59,0,0,6646.59,outofcamp
+Niger,Maradi,Guidan Roumdji,722773,2,505941.1,159010.06,57821.84,0,0,57821.84,outofcamp
+Niger,Maradi,Madarounfa,619469,1,501769.89,92920.35,24778.76,0,0,24778.76,outofcamp
+Niger,Maradi,Mayahi,768963,2,538274.1,192240.75,38448.15,0,0,38448.15,outofcamp
+Niger,Maradi,Tessaoua,711919,2,355959.5,284767.6,71191.9,0,0,71191.9,outofcamp
+Niger,Niamey,ACN1,269543,2,142857.79,107817.2,18868.01,0,0,18868.01,outofcamp
+Niger,Niamey,ACN2,316872,2,167942.16,126748.8,22181.04,0,0,22181.04,outofcamp
+Niger,Niamey,ACN3,209421,2,110993.13,83768.4,14659.47,0,0,14659.47,outofcamp
+Niger,Niamey,ACN4,352277,2,204320.66,123296.95,24659.39,0,0,24659.39,outofcamp
+Niger,Niamey,ACN5,169759,2,101855.4,59415.65,8487.95,0,0,8487.95,outofcamp
+Niger,Tahoua,Bagaroua,95923,2,65227.64,25899.21,4796.15,0,0,4796.15,outofcamp
+Niger,Tahoua,Birni Nkonni,415157,1,336277.17,49818.84,29060.99,0,0,29060.99,outofcamp
+Niger,Tahoua,Bouza,590936,2,354561.6,177280.8,59093.6,0,0,59093.6,outofcamp
+Niger,Tahoua,Illela,446650,2,312655,116129,17866,0,0,17866,outofcamp
+Niger,Tahoua,Keita,447283,2,246005.65,156549.05,44728.3,0,0,44728.3,outofcamp
+Niger,Tahoua,Madaoua,723854,1,593560.28,108578.1,21715.62,0,0,21715.62,outofcamp
+Niger,Tahoua,MALBAZA,308372,2,185023.2,92511.6,30837.2,0,0,30837.2,outofcamp
+Niger,Tahoua,Tahoua Departement,771335,2,462801,269967.25,38566.75,0,0,38566.75,outofcamp
+Niger,Tahoua,Abalak,340076,3,136030.4,119026.6,85019,0,0,85019,outofcamp
+Niger,Tahoua,Tassara,32451,2,21093.15,10384.32,973.53,0,0,973.53,outofcamp
+Niger,Tahoua,Tchintabraden,192509,2,148231.93,40426.89,3850.18,0,0,3850.18,outofcamp
+Niger,Tahoua,Tillia,51740,2,30526.6,18109,3104.4,0,0,3104.4,outofcamp
+Niger,Tillabéri,Ballayara,144027,2,97938.36,36006.75,10081.89,0,0,10081.89,outofcamp
+Niger,Tillabéri,Oualam,439907,3,131972.1,175962.8,131972.1,0,0,131972.1,outofcamp
+Niger,Tillabéri,Abala,193974,3,81469.08,67890.9,44614.02,0,0,44614.02,outofcamp
+Niger,Tillabéri,Ayérou,76669,3,26067.46,26834.15,23000.7,766.69,0,23767.39,outofcamp
+Niger,Tillabéri,Banibangou,90004,3,34201.52,31501.4,22501,1800.08,0,24301.08,outofcamp
+Niger,Tillabéri,Bankillaré,114127,3,34238.1,45650.8,31955.56,2282.54,0,34238.1,outofcamp
+Niger,Tillabéri,filingué,412351,2,247410.6,144322.85,20617.55,0,0,20617.55,outofcamp
+Niger,Tillabéri,Gothéye,324049,2,191188.91,113417.15,19442.94,0,0,19442.94,outofcamp
+Niger,Tillabéri,Kollo,625664,2,356628.48,250265.6,18769.92,0,0,18769.92,outofcamp
+Niger,Tillabéri,SAY,236103,2,146383.86,82636.05,7083.09,0,0,7083.09,outofcamp
+Niger,Tillabéri,TERA,451984,2,257630.88,158194.4,36158.72,0,0,36158.72,outofcamp
+Niger,Tillabéri,Tillabéri,241547,2,123188.97,84541.45,33816.58,0,0,33816.58,outofcamp
+Niger,Tillabéri,Torodi,245498,3,85924.3,98199.2,56464.54,4909.96,0,61374.5,outofcamp
+Niger,Zinder,Belbédji,131907,2,98930.25,29019.54,2638.14,1319.07,0,3957.21,outofcamp
+Niger,Zinder,Damagaram Takaya,329821,2,253962.17,56069.57,19789.26,0,0,19789.26,outofcamp
+Niger,Zinder,Dungass,483946,2,338762.2,96789.2,48394.6,0,0,48394.6,outofcamp
+Niger,Zinder,Gouré,448322,3,152429.48,156912.7,121046.94,17932.88,0,138979.82,outofcamp
+Niger,Zinder,Kantché,545917,2,387601.07,125560.91,32755.02,0,0,32755.02,outofcamp
+Niger,Zinder,Magaria,790117,2,592587.75,94814.04,63209.36,39505.85,0,102715.21,outofcamp
+Niger,Zinder,Mirriah,694052,2,534420.04,90226.76,41643.12,27762.08,0,69405.2,outofcamp
+Niger,Zinder,Takiéta,337547,2,263286.66,57382.99,16877.35,0,0,16877.35,outofcamp
+Niger,Zinder,Tanout,586903,2,434308.22,105642.54,35214.18,11738.06,0,46952.24,outofcamp
+Niger,Zinder,Tesker,50782,2,25898.82,13711.14,10156.4,1015.64,0,11172.04,outofcamp
+Niger,Tillabéri,Camp Abala,15339,3,3681.36,6135.6,4448.31,1073.73,0,5522.04,incamp
+Niger,Tillabéri,Camp Taberey berey,11219,2,5497.31,3814.46,1907.23,0,0,1907.23,incamp
+Niger,Tahoua,ZAR Intikan,19133,3,6122.56,6887.88,4974.58,1147.98,0,6122.56,incamp
+Niger,Tillabéri,Camp Mangaïzé,7308,3,2557.8,2557.8,1827,365.4,0,2192.4,incamp
+Niger,Diffa,Sayam Forage,17382,2,10429.2,5214.6,1738.2,0,0,1738.2,incamp

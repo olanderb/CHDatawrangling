@@ -1,0 +1,223 @@
+adm0_name,adm1_name,adm1_namechanged,adm1_code,adm1_pcod3,adm0_code,adm0_pcod3
+Benin,Alibori,Alibori,609,BEN001,29,BEN
+Benin,Atacora,Atacora,610,BEN002,29,BEN
+Benin,Atlantique,Atlantique,611,BEN003,29,BEN
+Benin,Borgou,Borgou,612,BEN004,29,BEN
+Benin,Collines,Collines,613,BEN005,29,BEN
+Benin,Couffo,Couffo,614,BEN006,29,BEN
+Benin,Donga,Donga,615,BEN007,29,BEN
+Benin,Littoral,Littoral,616,BEN008,29,BEN
+Benin,Mono,Mono,617,BEN009,29,BEN
+Benin,Oueme,Oueme,618,BEN010,29,BEN
+Benin,Plateau,Plateau,619,BEN011,29,BEN
+Benin,Zou,Zou,620,BEN012,29,BEN
+Cameroon,Adamaoua,Adamaoua,815,CMR001,NA,NA
+Cameroon,Centre,Centre,816,CMR002,NA,NA
+Cameroon,Est,Est,817,CMR003,NA,NA
+Cameroon,Extreme-Nord,Extreme-Nord,818,CMR004,NA,NA
+Cameroon,Littoral,Littoral,819,CMR005,NA,NA
+Cameroon,Nord,Nord,820,CMR006,NA,NA
+Cameroon,Nord-Ouest,Nord-Ouest,821,CMR007,NA,NA
+Cameroon,Ouest,Ouest,822,CMR008,NA,NA
+Cameroon,Sud,Sud,823,CMR009,NA,NA
+Cameroon,Sud-Ouest,Sud-Ouest,824,CMR010,NA,NA
+Cabo Verde,Boa Vista,Boa Vista,838,CPV01,47,CPV
+Cabo Verde,Brava,Brava,839,CPV02,47,CPV
+Cabo Verde,Fogo,Fogo,841,CPV06,47,CPV
+Cabo Verde,Maio,Maio,844,CPV03,47,CPV
+Cabo Verde,Sal,Sal,846,CPV01,47,CPV
+Cabo Verde,Santiago,Santiago,848,CPV02,47,CPV
+Cabo Verde,Santo Antao,Santo Antao,849,CPV09,47,CPV
+Cabo Verde,Sao Nicolau,Sao Nicolau,850,CPV08,47,CPV
+Cabo Verde,Sao Vicente,Sao Vicente,851,CPV00,47,CPV
+Central African Republic,Bamingui-Bangoran,Bamingui-Bangoran,853,CAF051,NA,NA
+Central African Republic,Basse-Kotto,Basse-Kotto,854,CAF061,NA,NA
+Central African Republic,Haut-Mbomou,Haut-Mbomou,855,CAF063,NA,NA
+Central African Republic,Haute-Kotto,Haute-Kotto,856,CAF052,NA,NA
+Central African Republic,Kemo,Kemo,857,CAF041,NA,NA
+Central African Republic,Lobaye,Lobaye,858,CAF012,NA,NA
+Central African Republic,Mambere Kadei,Mambere Kadei,859,CAF021,NA,NA
+Central African Republic,Mbomou,Mbomou,860,CAF062,NA,NA
+Central African Republic,Nana-Gribizi,Nana-Gribizi,861,CAF042,NA,NA
+Central African Republic,Nana-Mambere,Nana-Mambere,862,CAF022,NA,NA
+Central African Republic,Ombella M'Poko,Ombella M'Poko,863,CAF011,NA,NA
+Central African Republic,Ouaka,Ouaka,864,CAF043,NA,NA
+Central African Republic,Ouham,Ouham,865,CAF032,NA,NA
+Central African Republic,Ouham Pende,Ouham Pende,866,CAF031,NA,NA
+Central African Republic,Sangha-Mbaere,Sangha-Mbaere,867,CAF023,NA,NA
+Central African Republic,Vakaga,Vakaga,868,CAF053,NA,NA
+Chad,Wadi Fira,Wadi Fira,870,TCD017,50,TCD
+Chad,Guera,Guera,873,TCD004,50,TCD
+Chad,Lac,Lac,875,TCD007,50,TCD
+Chad,Logone Occidental,Logone Occidental,876,TCD008,50,TCD
+Chad,Salamat,Salamat,881,TCD015,50,TCD
+Gambia,Janjanbureh,Janjanbureh,1285,GMB004,90,GMB
+Gambia,Kuntaur,Kuntaur,1286,GMB007,90,GMB
+Gambia,Mansa Konko,Mansa Konko,1287,GMB008,90,GMB
+Gambia,Kerewan,Kerewan,1288,GMB006,90,GMB
+Gambia,Basse,Basse,1289,GMB002,90,GMB
+Gambia,Brikama,Brikama,1290,GMB003,90,GMB
+Ghana,Ashanti,Ashanti,1324,GHA024,94,GHA
+Ghana,Brong Ahafo,Brong Ahafo,1325,GHA025,94,GHA
+Ghana,Central,Central,1326,GHA026,94,GHA
+Ghana,Eastern,Eastern,1327,GHA027,94,GHA
+Ghana,Greater Accra,Greater Accra,1328,GHA028,94,GHA
+Ghana,Northern,Northern,1329,GHA029,94,GHA
+Ghana,Upper East,Upper East,1330,GHA030,94,GHA
+Ghana,Upper West,Upper West,1331,GHA031,94,GHA
+Ghana,Volta,Volta,1332,GHA032,94,GHA
+Ghana,Western,Western,1333,GHA033,94,GHA
+Senegal,Kaolack,Kaolack,1373,SEN005,217,SEN
+Senegal,Kedougou,Kedougou,1374,SEN006,217,SEN
+Senegal,Kolda,Kolda,1375,SEN007,217,SEN
+Senegal,Sedhiou,Sedhiou,1376,SEN011,217,SEN
+Senegal,Tambacounda,Tambacounda,1377,SEN012,217,SEN
+Senegal,Kaffrine,Kaffrine,1378,SEN004,217,SEN
+Guinea Bissau,Bafata,Bafata,1385,GNB001,105,GNB
+Guinea Bissau,Biombo,Biombo,1386,GNB002,105,GNB
+Guinea Bissau,Bolama/Bijagos,Bolama/Bijagos,1387,GNB003,105,GNB
+Guinea Bissau,Cacheu,Cacheu,1388,GNB004,105,GNB
+Guinea Bissau,Gabu,Gabu,1389,GNB005,105,GNB
+Guinea Bissau,Oio,Oio,1390,GNB006,105,GNB
+Guinea Bissau,Quinara,Quinara,1391,GNB007,105,GNB
+Guinea Bissau,Bissau,Bissau,1392,GNB008,105,GNB
+Guinea Bissau,Tombali,Tombali,1393,GNB009,105,GNB
+Liberia,Bomi,Bomi,1814,LBR001,NA,NA
+Liberia,Bong,Bong,1815,LBR002,NA,NA
+Liberia,Gbarpolu,Gbarpolu,1816,LBR003,NA,NA
+Liberia,Grand Bassa,Grand Bassa,1817,LBR004,NA,NA
+Liberia,Grand Cape Mount,Grand Cape Mount,1818,LBR005,NA,NA
+Liberia,Grand Gedeh,Grand Gedeh,1819,LBR006,NA,NA
+Liberia,Grand Kru,Grand Kru,1820,LBR007,NA,NA
+Liberia,Lofa,Lofa,1821,LBR008,NA,NA
+Liberia,Margibi,Margibi,1822,LBR009,NA,NA
+Liberia,Maryland,Maryland,1823,LBR010,NA,NA
+Liberia,Montserrado,Montserrado,1824,LBR011,NA,NA
+Liberia,Nimba,Nimba,1825,LBR012,NA,NA
+Liberia,Rivercess,Rivercess,1826,LBR014,NA,NA
+Liberia,River Gee,River Gee,1827,LBR013,NA,NA
+Liberia,Sinoe,Sinoe,1828,LBR015,NA,NA
+Mali,Bamako,Bamako,1926,MLI009,155,MLI
+Mali,Gao,Gao,1927,MLI007,155,MLI
+Mali,Kayes,Kayes,1928,MLI001,155,MLI
+Mali,Kidal,Kidal,1929,MLI008,155,MLI
+Mali,Koulikoro,Koulikoro,1930,MLI002,155,MLI
+Mali,Mopti,Mopti,1931,MLI005,155,MLI
+Mali,Segou,Segou,1932,MLI004,155,MLI
+Mali,Sikasso,Sikasso,1933,MLI003,155,MLI
+Mali,Tombouctou,Tombouctou,1934,MLI006,155,MLI
+Mauritania,Adrar,Adrar,2004,MRT001,159,MRT
+Mauritania,Assaba,Assaba,2005,MRT002,159,MRT
+Mauritania,Brakna,Brakna,2006,MRT003,159,MRT
+Mauritania,Dakhlet-Nouadhibou,Dakhlet-Nouadhibou,2007,MRT004,159,MRT
+Mauritania,Gorgol,Gorgol,2008,MRT005,159,MRT
+Mauritania,Guidimakha,Guidimakha,2009,MRT006,159,MRT
+Mauritania,Hodh Ech Chargi,Hodh Ech Chargi,2010,MRT007,159,MRT
+Mauritania,Hodh El Gharbi,Hodh El Gharbi,2011,MRT008,159,MRT
+Mauritania,Inchiri,Inchiri,2012,MRT009,159,MRT
+Mauritania,Nouakchott,Nouakchott,2013,MRT010,159,MRT
+Mauritania,Tagant,Tagant,2014,MRT011,159,MRT
+Mauritania,Tiris-Zemmour,Tiris-Zemmour,2015,MRT012,159,MRT
+Mauritania,Trarza,Trarza,2016,MRT013,159,MRT
+Niger,Agadez,Agadez,2202,NER001,181,NER
+Niger,Diffa,Diffa,2203,NER002,181,NER
+Niger,Dosso,Dosso,2204,NER003,181,NER
+Niger,Maradi,Maradi,2205,NER004,181,NER
+Niger,Niamey,Niamey,2206,NER008,181,NER
+Niger,Tahoua,Tahoua,2207,NER005,181,NER
+Niger,Tillabery,Tillabery,2208,NER006,181,NER
+Niger,Zinder,Zinder,2209,NER007,181,NER
+Nigeria,Adamawa,Adamawa,2211,NGA002,182,NGA
+Nigeria,Akwa Ibom,Akwa Ibom,2212,NGA003,182,NGA
+Nigeria,Anambra,Anambra,2213,NGA004,182,NGA
+Nigeria,Benue,Benue,2215,NGA007,182,NGA
+Nigeria,Borno,Borno,2216,NGA008,182,NGA
+Nigeria,Cross River,Cross River,2217,NGA009,182,NGA
+Nigeria,Delta,Delta,2218,NGA010,182,NGA
+Nigeria,Edo,Edo,2219,NGA012,182,NGA
+Nigeria,Abuja,Abuja,2221,NGA015,182,NGA
+Nigeria,Imo,Imo,2222,NGA017,182,NGA
+Nigeria,Jigawa,Jigawa,2223,NGA018,182,NGA
+Nigeria,Kaduna,Kaduna,2224,NGA019,182,NGA
+Nigeria,Kano,Kano,2225,NGA020,182,NGA
+Nigeria,Katsina,Katsina,2226,NGA021,182,NGA
+Nigeria,Kebbi,Kebbi,2227,NGA022,182,NGA
+Nigeria,Kogi,Kogi,2228,NGA023,182,NGA
+Nigeria,Kwara,Kwara,2229,NGA024,182,NGA
+Nigeria,Lagos,Lagos,2230,NGA025,182,NGA
+Nigeria,Niger,Niger,2231,NGA027,182,NGA
+Nigeria,Ogun,Ogun,2232,NGA028,182,NGA
+Nigeria,Osun,Osun,2234,NGA030,182,NGA
+Nigeria,Oyo,Oyo,2235,NGA031,182,NGA
+Nigeria,Taraba,Taraba,2239,NGA035,182,NGA
+Nigeria,Yobe,Yobe,2240,NGA036,182,NGA
+Sao Tome and Principe,Principe,Principe,2620,STP001,NA,NA
+Sao Tome and Principe,Sao Tome,Sao Tome,2621,STP002,NA,NA
+Senegal,Dakar,Dakar,2636,SEN001,217,SEN
+Senegal,Thies,Thies,2644,SEN013,217,SEN
+Senegal,Ziguinchor,Ziguinchor,2645,SEN014,217,SEN
+Togo,Centrale,Centrale,2970,TGO001,243,TGO
+Togo,Kara,Kara,2971,TGO002,243,TGO
+Togo,Maritime,Maritime,2972,TGO003,243,TGO
+Togo,Plateaux,Plateaux,2973,TGO004,243,TGO
+Togo,Savanes,Savanes,2974,TGO005,243,TGO
+Chad,Batha,Batha,12904,TCD001,50,TCD
+Chad,Ennedi-Est,Ennedi-Est,12906,TCD020,50,TCD
+Chad,Borkou,Borkou,12907,TCD002,50,TCD
+Chad,Ennedi Ouest,Ennedi Ouest,12908,TCD023,50,TCD
+Chad,Tibesti,Tibesti,12909,TCD022,50,TCD
+Chad,Chari-Baguirmi,Chari-Baguirmi,12910,TCD003,50,TCD
+Chad,Hadjer-Lamis,Hadjer-Lamis,12911,TCD005,50,TCD
+Chad,N'Djamena,N'Djamena,12912,TCD018,50,TCD
+Chad,Barh-El-Gazel,Barh-El-Gazel,12914,TCD019,50,TCD
+Chad,Kanem,Kanem,12915,TCD006,50,TCD
+Chad,Logone Oriental,Logone Oriental,12918,TCD009,50,TCD
+Chad,Mayo Kebbi Est,Mayo Kebbi Est,12921,TCD011,50,TCD
+Chad,Mayo-Kebbi Ouest,Mayo-Kebbi Ouest,12922,TCD012,50,TCD
+Chad,Moyen-Chari,Moyen-Chari,12923,TCD013,50,TCD
+Chad,Mandoul,Mandoul,12925,TCD010,50,TCD
+Chad,Ouaddai,Ouaddai,12926,TCD014,50,TCD
+Chad,Sila,Sila,12927,TCD021,50,TCD
+Chad,Tandjile,Tandjile,12930,TCD016,50,TCD
+Burkina Faso,Boucle du Mouhoun,Boucle du Mouhoun,40276,BFA046,42,BFA
+Burkina Faso,Cascades,Cascades,40277,BFA047,42,BFA
+Burkina Faso,Centre,Centre,40278,BFA013,42,BFA
+Burkina Faso,Centre-Est,Centre-Est,40279,BFA048,42,BFA
+Burkina Faso,Centre-Nord,Centre-Nord,40280,BFA049,42,BFA
+Burkina Faso,Centre-Ouest,Centre-Ouest,40281,BFA050,42,BFA
+Burkina Faso,Centre-Sud,Centre-Sud,40282,BFA051,42,BFA
+Burkina Faso,Est,Est,40283,BFA052,42,BFA
+Burkina Faso,Hauts-Bassins,Hauts-Bassins,40284,BFA053,42,BFA
+Burkina Faso,Nord,Nord,40285,BFA054,42,BFA
+Burkina Faso,Plateau Central,Plateau Central,40286,BFA055,42,BFA
+Burkina Faso,Sahel,Sahel,40287,BFA056,42,BFA
+Burkina Faso,Sud-Ouest,Sud-Ouest,40288,BFA057,42,BFA
+Guinea,Boke,Boke,40700,GIN001,106,GIN
+Guinea,Conakry,Conakry,40701,GIN002,106,GIN
+Guinea,Faranah,Faranah,40702,GIN003,106,GIN
+Guinea,Kankan,Kankan,40703,GIN004,106,GIN
+Guinea,Kindia,Kindia,40704,GIN005,106,GIN
+Guinea,Labe,Labe,40705,GIN006,106,GIN
+Guinea,Mamou,Mamou,40706,GIN007,106,GIN
+Guinea,Nzerekore,Nzerekore,40707,GIN008,106,GIN
+Senegal,Diourbel,Diourbel,47585,SEN002,217,SEN
+Senegal,Fatick,Fatick,47586,SEN003,217,SEN
+Senegal,Louga,Louga,47587,SEN008,217,SEN
+Senegal,Matam,Matam,47588,SEN009,217,SEN
+Senegal,Saint Louis,Saint Louis,47589,SEN010,217,SEN
+Nigeria,Abia,Abia,65698,NGA001,182,NGA
+Nigeria,Bauchi,Bauchi,65699,NGA005,182,NGA
+Nigeria,Bayelsa,Bayelsa,65700,NGA006,182,NGA
+Nigeria,Ebonyi,Ebonyi,65701,NGA011,182,NGA
+Nigeria,Ekiti,Ekiti,65702,NGA013,182,NGA
+Nigeria,Enugu,Enugu,65703,NGA014,182,NGA
+Nigeria,Gombe,Gombe,65704,NGA016,182,NGA
+Nigeria,Nasarawa,Nasarawa,65705,NGA026,182,NGA
+Nigeria,Ondo,Ondo,65706,NGA029,182,NGA
+Nigeria,Plateau,Plateau,65707,NGA032,182,NGA
+Nigeria,Rivers,Rivers,65708,NGA033,182,NGA
+Nigeria,Sokoto,Sokoto,65709,NGA034,182,NGA
+Nigeria,Zamfara,Zamfara,65710,NGA037,182,NGA
+Central African Republic,Bangui,Bangui,67154,CAF071,NA,NA
+Gambia,Kanifing,Kanifing,112869,GMB005,90,GMB
+Gambia,Banjul,Banjul,112870,GMB001,90,GMB

@@ -1,0 +1,311 @@
+old_adm0_name,new_adm0_name
+Alibori,Alibori
+Atacora,Atakora
+Atlantique,Atlantique
+Borgou,Borgou
+Collines,Collines
+Couffo,Couffo
+Donga,Donga
+Littoral,Littoral
+Mono,Mono
+Oueme,Oueme
+Plateau,Plateau
+Zou,Zou
+ATACORA,NA
+DONGA,Delta
+Altantique,Atlantique
+LITTORAL,NA
+Centre,Centre
+Plateau Central,Plateau Central
+Centre-Nord,Centre-Nord
+Centre-Ouest,Centre-Ouest
+Centre-Sud,Centre-Sud
+Sahel,Sahel
+Boucle du Mouhoun,Boucle Du Mouhoun
+Est,Est
+Centre-Est,Centre-Est
+Nord,Nord
+Sud-Ouest,Sud-Ouest
+Hauts-Bassins,Hauts-Bassins
+Cascades,Cascades
+CENTRE,NA
+PLATEAU CENTRAL,NA
+CENTRE-NORD,NA
+CENTRE-OUEST,NA
+NA,NA
+Folon,Volta
+Kabadougou,Kedougou
+PORO,Oyo
+TCHOLOGO,NA
+BAGOUE,NA
+Region du GOH,NA
+Region du GUEMON,NA
+Region de la MARAHOUE,NA
+Region du HAUT-SASSANDRA,NA
+R. Brava,Brava
+Tarrafal,Tarrafal
+Sal,Sal
+Ribeira Grande,Ribeira Grande
+Paul,Paul
+Porto Novo,Porto Novo
+Santa Catarina,Santa Catarina
+Sao Miguel,Sao Miguel
+Praia,Praia
+S.Lourenco dos Orgaos,Sao Lourenco dos Orgaos
+Sao Filipe,Sao Filipe
+Mosteiros,Mosteiros
+Maio,Maio
+Brava,Brava
+Ribeira GST,NA
+S: Cruz,Santa Cruz
+S. Domingos,Sao Domingos
+Mindelo,Zinder
+Boa Vista,Boa Vista
+Sao Lourenco dos Orgaos,Sao Lourenco dos Orgaos
+Sao Salvador do Mundo,Sao Salvador do Mundo
+Ribeira Brava,Ribeira Brava
+S. Vicente,Sao Vicente
+S. L. Orgaos,NA
+S. S. Mundo,NA
+B. Vista,Boa Vista
+PRAIA,Praia
+Ra G SANTIAGO,NA
+S. DOMINGOS,NA
+STA CRUZ,NA
+S. L. OGAOS,NA
+S. S. MUNDO,NA
+BOA VISTA,NA
+Ra Grande,NA
+Sao Domingos,Sao Domingos
+Sta Cruz,Santa Cruz
+TARRAFAL ST,NA
+SANTA CATARINA,NA
+SAO MIGUEL,NA
+RIBEIRA GRANDE,NA
+PORTO NOVO,NA
+PAUL,Paul
+RIBEIRA BRAVA,NA
+TARRAFAL SN,NA
+SAO VICENTE,NA
+SAL,Sud
+SAO FILIPE,NA
+MOSTEIROS,NA
+MAIO,Mono
+BRAVA,Batha
+Santa Catarina de Fogo,Santa Catarina do Fogo
+S.Vicente,Sao Vicente
+S. Cruz,Santa Cruz
+Sao salvadordo Mundo,Sao Salvador do Mundo
+Ribeira Grande de Santiago,Ribeira Grande de Santiago
+RIBEIRA BRAVO,NA
+Northern,Northern
+Upper East,Upper East
+Upper West,Upper West
+Brong Ahafo,Brong Ahafo
+Ashanti,Ashanti
+Western,Western
+Central,Central
+Greater Accra,Greater Accra
+Volta,Volta
+Eastern,Eastern
+Central Region,NA
+Volta Region,NA
+Estearn,Eastern
+Greater Acra,Greater Accra
+Central region,NA
+Greater Acrra,Greater Accra
+Boke,Boke
+Conakry,Conakry
+Faranah,Faranah
+Kankan,Kankan
+Kindia,Kindia
+Labe,Labe
+Mamou,Mamou
+Nzerekore,Nzerekore
+BOKE,Oyo
+FARANAH,NA
+KANKAN,NA
+KINDIA,NA
+LABE,Lac
+MAMOU,Abia
+N'ZEREKORE,NA
+WCR,Lac
+LRR,Lac
+URR,Lac
+CRRN,Lac
+CRRS,Lac
+NBR,Lac
+BANJUL,NA
+KMC,Lac
+West Coast Region,NA
+Lower River Region,NA
+North Bank Region,NA
+Central River Region (N),NA
+Central River Region (S),NA
+Upper River Region,NA
+CRR n,Ogun
+CRR s,Lagos
+BJL,Lac
+Central River (N),NA
+Central River (S),NA
+Lower River,NA
+North Bank,Northern
+Upper River,NA
+West Coast,NA
+Bafata,Bafata
+Quinara,Quinara
+OIO,Oyo
+Biombo,Biombo
+CACHEU,NA
+GABU,Gabu
+BOLAMA,NA
+TOMBALI,NA
+BAFATA,NA
+QUINARA,NA
+BIOMBO,NA
+Cacheu,Cacheu
+Oio,Oio
+Gabu,Gabu
+Tombali,Tombali
+Bolama-Bijagos,Bolama/Bijagos
+Bolama,Salamat
+Bomi,Bomi
+Bong,Bong
+Gbarpolu,Gbarpolu
+Grand Bassa,Grand Bassa
+Grand Cape Mount,Grand Cape Mount
+Grand Gedeh,Grand Gedeh
+Grand Kru,Grand Kru
+Lofa,Lofa
+Margibi,Margibi
+Maryland,Maryland
+Montserrado,Montserrado
+Nimba,Nimba
+River Gee,River Gee
+Rivercess,Rivercess
+Sinoe,Sinoe
+NORTH CENTRAL,NA
+WESTERN,NA
+SOUTH EASTERN,NA
+Kayes,Kayes
+Koulikoro,Koulikoro
+Sikasso,Sikasso
+Segou,Segou
+Mopti,Mopti
+Tombouctou,Tombouctou
+Gao,Gao
+Kidal,Kidal
+Bamako,Bamako
+Brakna,Brakna
+Guidimakha,Guidimakha
+Tagant,Tagant
+Adrar,Adrar
+Dakhlet-Nouadhibou,Dakhlet-Nouadhibou
+Tiris-Zemmour,Tiris-Zemmour
+Inchiri,Inchiri
+Gorgol,Gorgol
+Nouakchott,Nouakchott
+Trarza,Trarza
+Hodh Ech Chargi,Hodh Ech Chargi
+Hodh El Gharbi,Hodh El Gharbi
+Assaba,Assaba
+Agadez,Agadez
+Diffa,Diffa
+Dosso,Dosso
+Maradi,Maradi
+Tahoua,Tahoua
+Tillaberi,Tillaberi
+Zinder,Zinder
+Niamey,Niamey
+Adamawa,Adamawa
+Borno,Borno
+Jigawa,Jigawa
+Katsina,Katsina
+Kano,Kano
+Sokoto,Sokoto
+Yobe,Yobe
+Zamfara,Zamfara
+Bauchi,Bauchi
+Benue,Benue
+Gombe,Gombe
+Kaduna,Kaduna
+Kebbi,Kebbi
+Niger,Niger
+Taraba,Taraba
+ADAMAWA,NA
+BAUCHI,NA
+BENUE,Batha
+BORNO,Batha
+Federal Capital Territory,Federal Capital Territory
+GOMBE,Guera
+JIGAWA,NA
+KADUNA,NA
+KANO,Kemo
+KATSINA,NA
+KEBBI,Kanem
+NIGER,Nord
+PLATEAU,NA
+SOKOTO,NA
+TARABA,NA
+YOBE,Oyo
+ZAMFARA,NA
+Diourbel,Diourbel
+Kaffrine,Kaffrine
+Saint Louis,Saint Louis
+Fatick,Fatick
+Kaolack,Kaolack
+Matam,Matam
+Louga,Louga
+Kedougou,Kedougou
+Kolda,Kolda
+Dakar,Dakar
+Tambacounda,Tambacounda
+Ziguinchor,Ziguinchor
+Sedhiou,Sedhiou
+Thies,Thies
+Southern,Southern
+Western Area,NA
+Eastern Province,NA
+Southern Province,NA
+Northern Province,NA
+Batha,Batha
+Chari-Baguirmi,Chari-Baguirmi
+Logone Occidental,Logone Occidental
+Hadjer-Lamis,Hadjer-Lamis
+Barh-El-Gazel,Barh-El-Gazel
+Logone Oriental,Logone Oriental
+Mandoul,Mandoul
+Lac,Lac
+Guera,Guera
+Sila,Sila
+Tandjile,Tandjile
+Mayo Kebbi Est,Mayo-Kebbi Est
+Ouaddai,Ouaddai
+Kanem,Kanem
+Mayo-Kebbi Ouest,Mayo-Kebbi Ouest
+Salamat,Salamat
+Wadi Fira,Wadi Fira
+Moyen-Chari,Moyen-Chari
+Ennedi-Est,Ennedi Est
+Ennedi Ouest,Ennedi Ouest
+Borkou,Borkou
+Wardi Fira,Wadi Fira
+Hajer Lamis,Hadjer-Lamis
+Moyen Chari,Moyen-Chari
+Mayo-Kebbi est,Mayo-Kebbi Est
+Barh El Gazal,Barh-El-Gazel
+Ennedi Est,Ennedi Est
+Tibesti,Tibesti
+BORKOU,NA
+ENNEDI EST,NA
+ENNEDI OUEST,NA
+TIBESTI,NA
+Centrale,Centrale
+Kara,Kara
+Maritime,Maritime
+Plateaux,Plateaux
+Savanes,Savanes
+PLATEAUX,NA
+CENTRALE,NA
+KARA,Kemo
+SAVANES,NA

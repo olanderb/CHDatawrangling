@@ -1,0 +1,79 @@
+country,adm1,adm2,pop,classif,phase1,phase2,phase3,phase4,phase5,phase35
+Niger,Tillabéry,Abala,166274,1,141332.9,23278.36,1662.74,0,0,1662.74
+Niger,Tillabéry,Fillingué,353466,1,296911.44,53019.9,3534.66,0,0,3534.66
+Niger,Tillabéry,Banibangou,77151,2,50148.15,20830.77,5400.57,771.51,0,6172.08
+Niger,Tillabéry,Ouallam,377087,2,241335.68,98042.62,33937.83,3770.87,0,37708.7
+Niger,Tillabéry,Tillabéri,261997,1,238417.27,20959.76,2619.97,0,0,2619.97
+Niger,Tillabéry,TERA,387439,2,290579.25,81362.19,11623.17,3874.39,0,15497.56
+Niger,Tillabéry,Bankilaré,97829,1,86089.52,10761.19,978.29,0,0,978.29
+Niger,Tillabéry,Gothey,277774,1,249996.6,27777.4,0,0,0,0
+Niger,Tillabéry,Say,202387,2,153814.12,44525.14,4047.74,0,0,4047.74
+Niger,Tillabéry,Torodi ,210440,1,178874,31566,0,0,0,0
+Niger,Tillabéry,Kollo,536318,1,514865.28,21452.72,0,0,0,0
+Niger,Tillabéry,Balleyara,123459,1,116051.46,7407.54,0,0,0,0
+Niger,Tillabéry,Ayorou,65720,1,60462.4,5257.6,0,0,0,0
+Niger,Agadez,Tchiro,281995,1,253795.5,28199.5,0,0,0,0
+Niger,Agadez,Aderbissinat,40702,2,31747.56,8140.4,814.04,0,0,814.04
+Niger,Agadez,Arlit,121029,1,108926.1,12102.9,0,0,0,0
+Niger,Agadez,Iferouane,37719,1,35833.05,1885.95,0,0,0,0
+Niger,Agadez,Bilma,20668,2,15914.36,4546.96,206.68,0,0,206.68
+Niger,Agadez,Ingal,59812,2,47251.48,11962.4,598.12,0,0,598.12
+Niger,Zinder,Doungass,407790,2,318076.2,89713.8,0,0,0,0
+Niger,Zinder,Gouré,377772,1,339994.8,37777.2,0,0,0,0
+Niger,Zinder,Mirriah,584833,1,543894.69,40938.31,0,0,0,0
+Niger,Zinder,Kantché,460009,1,437008.55,23000.45,0,0,0,0
+Niger,Zinder,Damagaram Takaya,277919,1,233451.96,44467.04,0,0,0,0
+Niger,Zinder,Takeita,284429,1,270207.55,14221.45,0,0,0,0
+Niger,Zinder,Magaria,665781,1,565913.85,99867.15,0,0,0,0
+Niger,Zinder,Tarka,111150,2,86697,23341.5,1111.5,0,0,1111.5
+Niger,Zinder,Tanout,494545,1,445090.5,49454.5,0,0,0,0
+Niger,Zinder,Tesker,42790,1,37655.2,5134.8,0,0,0,0
+Niger,Zinder,Zinder Arrondissement 1,97503,NA,,,,,,
+Niger,Zinder,Zinder Arrondissement 2,79496,NA,,,,,,
+Niger,Zinder,Zinder Arrondissement 3,64528,NA,,,,,,
+Niger,Zinder,Zinder Arrondissement 4,93254,NA,,,,,,
+Niger,Zinder,Zinder Arrondissement 5,37364,NA,,,,,,
+Niger,Tahoua,Abalak,295357,2,53164.26,239239.17,2953.57,0,0,2953.57
+Niger,Tahoua,Tchinta,167195,1,142115.75,25079.25,0,0,0,0
+Niger,Tahoua,Tassara,28184,1,25365.6,2818.4,0,0,0,0
+Niger,Tahoua,Tillia,44936,1,39543.68,5392.32,0,0,0,0
+Niger,Tahoua,Tahoua,498589,2,74788.35,413828.87,9971.78,0,0,9971.78
+Niger,Tahoua,Keita,388466,1,330196.1,58269.9,0,0,0,0
+Niger,Tahoua,Illéla,386953,1,317301.46,69651.54,0,0,0,0
+Niger,Tahoua,Bouza,513229,1,415715.49,97513.51,0,0,0,0
+Niger,Tahoua,Bagaroua,83309,1,67480.29,15828.71,0,0,0,0
+Niger,Tahoua,Madaoua,628669,1,534368.65,94300.35,0,0,0,0
+Niger,Tahoua,Malbaza,267822,1,219614.04,48207.96,0,0,0,0
+Niger,Tahoua,Konni,360565,1,306480.25,54084.75,0,0,0,0
+Niger,Tahoua,           Tahaoua Arrondissement 1,61732,NA,,,,,,
+Niger,Tahoua,           Tahaoua Arrondissement 2,110547,NA,,,,,,
+Niger,DOSSO,Dosso,567618,2,437065.86,107847.42,22704.72,0,0,22704.72
+Niger,DOSSO,Dioundou,126318,1,102317.58,20210.88,3789.54,0,0,3789.54
+Niger,DOSSO,Doutchi,429232,2,279000.8,137354.24,12876.96,0,0,12876.96
+Niger,DOSSO,Falmey,119008,2,71404.8,41652.8,5950.4,0,0,5950.4
+Niger,DOSSO,Gaya,301507,1,247235.74,45226.05,9045.21,0,0,9045.21
+Niger,DOSSO,Loga,202293,2,119352.87,72825.48,10114.65,0,0,10114.65
+Niger,DOSSO,Tibiri,311162,2,196032.06,102683.46,12446.48,0,0,12446.48
+Niger,DOSSO,Boboye ,291089,2,186296.96,93148.48,11643.56,0,0,11643.56
+Niger,MARADI,Aguié,283482,2,212611.5,62366.04,8504.46,0,0,8504.46
+Niger,MARADI,Dakoro,726487,2,523070.64,174356.88,29059.48,0,0,29059.48
+Niger,MARADI,Gazaoua,184999,2,144299.22,35149.81,5549.97,0,0,5549.97
+Niger,MARADI,Bermo,60240,2,46384.8,12048,1807.2,0,0,1807.2
+Niger,MARADI,Mayahi,642092,1,532936.36,89892.88,19262.76,0,0,19262.76
+Niger,MARADI,Tessaoua,594459,1,487456.38,65390.49,41612.13,0,0,41612.13
+Niger,MARADI,Madaroufa,517262,1,439672.7,51726.2,25863.1,0,0,25863.1
+Niger,MARADI,Guidan R,603523,1,500924.09,78457.99,24140.92,0,0,24140.92
+Niger,MARADI,Maradi Arrondissement 1,131725,NA,,,,,,
+Niger,MARADI,Maradi Arrondissement 2,76896,NA,,,,,,
+Niger,MARADI,Maradi Arrondissement 3,99352,NA,,,,,,
+Niger,DIFFA,Nguigmi,84555,3,8455.50000000001,49041.9,26212.05,845.55,0,27057.6
+Niger,DIFFA,Ngourti,59655,2,29827.5,26844.75,2982.75,0,0,2982.75
+Niger,DIFFA,Goudoumaria,115882,2,69529.2,40558.7,5794.1,0,0,5794.1
+Niger,DIFFA,Mainé Soroa,151727,2,83449.85,60690.8,7586.35,0,0,7586.35
+Niger,DIFFA,Diffa,184061,3,38652.81,82827.45,60740.13,1840.61,0,62580.74
+Niger,DIFFA,Bosso,88428,3,11495.64,35371.2,39792.6,1768.56,0,41561.16
+Niger,Niamey,Niamey Arrondissement 1,242024,NA,,,,,,
+Niger,Niamey,Niamey Arrondissement 2,284521,NA,,,,,,
+Niger,Niamey,Niamey Arrondissement 3,188040,NA,,,,,,
+Niger,Niamey,Niamey Arrondissement 4,316311,NA,,,,,,
+Niger,Niamey,Niamey Arrondissement 5,152427,NA,,,,,,

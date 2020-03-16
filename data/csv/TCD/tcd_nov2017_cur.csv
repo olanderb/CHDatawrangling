@@ -1,0 +1,70 @@
+country,adm1,adm2,pop,classif,phase1,phase2,phase3,phase4,phase5,phase35
+Chad,BARH EL GAZAL,Barh-El-Gazal Sud,194065,2,137786,42694,13585,       ,       ,13585
+Chad,BARH EL GAZAL,Barh-El-Gazal Ouest,74262,2,57182,13367,3713,       ,       ,3713
+Chad,BARH EL GAZAL,Barh-El-Gazal Nord,85000,2,61200,20400,3400,       ,       ,3400
+Chad,BATHA,Batha Ouest,271536,2,195506,62453,13577,       ,       ,13577
+Chad,BATHA,Batha Est,247681,2,168423,64397,14861,       ,       ,14861
+Chad,BATHA,Fitri,151626,1,127366,24260,       ,       ,       ,       
+Chad,BORKOU,Borkou,93899,1,84509,9390,       ,       ,       ,       
+Chad,BORKOU,Borkou Yala,34629,1,30127,4502,       ,       ,       ,       
+Chad,CHARI BAGUIRMI,Baguirmi,288029,1,253466,34563,       ,       ,       ,       
+Chad,CHARI BAGUIRMI,Chari,251197,1,228589,22608,       ,       ,       ,       
+Chad,CHARI BAGUIRMI,Loug-Chari,255177,1,227108,28069,       ,       ,       ,       
+Chad,ENNEDI EST,Am Djaras,109062,2,82887,23994,2181,       ,       ,2181
+Chad,ENNEDI EST,Wadi Hawar,38305,2,26430,10342,1532,       ,       ,1532
+Chad,ENNEDI OUEST,Fada,53980,2,39945,12955,1080,       ,       ,1080
+Chad,ENNEDI OUEST,Mourtcha,29271,2,21075,7318,878,       ,       ,878
+Chad,GUERA,Guéra,236837,2,177628,49736,9473,       ,       ,9473
+Chad,GUERA,Abtouyour,229951,1,193159,34493,2300,       ,       ,2300
+Chad,GUERA,Barh Signaka,142245,1,123753,15647,2845,       ,       ,2845
+Chad,GUERA,Mangalmé,130344,2,95151,28676,6517,       ,       ,6517
+Chad,HADJER LAMIS,Dagana,258675,1,212114,46562,       ,       ,       ,       
+Chad,HADJER LAMIS,Dababa,313737,1,260402,53335,       ,       ,       ,       
+Chad,HADJER LAMIS,Haraze Al Biar,206105,1,179311,26794,       ,       ,       ,       
+Chad,KANEM,Kanem,210370,2,157778,39970,12622,       ,       ,12622
+Chad,KANEM,Nord Kanem,124930,2,92448,26235,6247,       ,       ,6247
+Chad,KANEM,Wadi-Bissam,122570,2,83348,34320,4903,       ,       ,4903
+Chad,LAC,Mamdi,191845,2,115107,49880,26858,       ,       ,26858
+Chad,LAC,Wayi,289635,2,179574,86891,23171,       ,       ,23171
+Chad,LAC,Fouli,53448,3,26190,13362,12293,1603,       ,13896
+Chad,LAC,Kaya,60833,3,23117,20683,15208,1825,       ,17033
+Chad,LOGONE OCCIDENTAL,Lac Wey,455273,1,405193,50080,       ,       ,       ,       
+Chad,LOGONE OCCIDENTAL,Dodjé,146076,1,122704,23372,       ,       ,       ,       
+Chad,LOGONE OCCIDENTAL,Gueni,126371,1,109943,16428,       ,       ,       ,       
+Chad,LOGONE OCCIDENTAL,Ngourkosso,218605,1,196745,21861,       ,       ,       ,       
+Chad,LOGONE ORIENTAL,La Pendé,220369,1,182906,37463,       ,       ,       ,       
+Chad,LOGONE ORIENTAL,Kouh Est,139193,1,118314,20879,       ,       ,       ,       
+Chad,LOGONE ORIENTAL,Kouh Ouest,68003,1,62563,5440,       ,       ,       ,       
+Chad,LOGONE ORIENTAL,La Nya,193565,1,178080,15485,       ,       ,       ,       
+Chad,LOGONE ORIENTAL,La Nya Pendé,148450,1,133605,14845,       ,       ,       ,       
+Chad,LOGONE ORIENTAL,Monts de Lam,300756,1,279703,21053,       ,       ,       ,       
+Chad,MANDOUL,Mandoul Oriental,351747,1,320090,31657,       ,       ,       ,       
+Chad,MANDOUL,Barh Sara,298370,1,262566,35804,       ,       ,       ,       
+Chad,MANDOUL,Mandoul Occidental,212461,1,197589,14872,       ,       ,       ,       
+Chad,MAYO KEBBI EST,Mayo-Boneye,324076,1,285187,38889,       ,       ,       ,       
+Chad,MAYO KEBBI EST,Kabbia,314278,1,273422,40856,       ,       ,       ,       
+Chad,MAYO KEBBI EST,Mayo-Lemié,112688,1,99165,13523,       ,       ,       ,       
+Chad,MAYO KEBBI EST,Mont Illi,313035,1,284862,28173,       ,       ,       ,       
+Chad,MAYO KEBBI OUEST,Mayo-Dallah,459735,1,422956,36779,       ,       ,       ,       
+Chad,MAYO KEBBI OUEST,Mayo-Binder,75400,1,67860,7540,       ,       ,       ,       
+Chad,MAYO KEBBI OUEST,Lac Léré,240101,1,213690,26411,       ,       ,       ,       
+Chad,MOYEN CHARI,Barh Koh,421322,1,379190,42132,       ,       ,       ,       
+Chad,MOYEN CHARI,Grande Sido,147005,1,130834,16171,       ,       ,       ,       
+Chad,MOYEN CHARI,Lac Iro,239238,1,224884,14354,       ,       ,       ,       
+Chad,OUADDAI,Ouara,451360,1,374629,58677,18054,       ,       ,18054
+Chad,OUADDAI,Abdi,146789,1,118899,20550,7339,       ,       ,7339
+Chad,OUADDAI,Assoungha,392292,1,302065,66690,23538,       ,       ,23538
+Chad,SALAMAT,Barh Azoum,250241,1,212705,32531,5005,       ,       ,5005
+Chad,SALAMAT,Aboudéia,88829,1,73728,12436,2665,       ,       ,2665
+Chad,SALAMAT,Haraze Mangueigne,76106,1,64690,9894,1522,       ,       ,1522
+Chad,SILA,Kimiti,420165,1,357140,50420,12605,       ,       ,12605
+Chad,SILA,Djourouf Al Amar,111970,2,85097,21274,5599,       ,       ,5599
+Chad,TANDJILE,Tandjilé Est,349713,1,286765,52457,10491,       ,       ,10491
+Chad,TANDJILE,Tandjité Centre,120868,1,108781,12087,       ,       ,       ,       
+Chad,TANDJILE,Tandjilé Ouest,438474,1,403396,35078,       ,       ,       ,       
+Chad,TIBESTI,Tibesti Est,19759,1,17190,2569,       ,       ,       ,       
+Chad,TIBESTI,Tibesti Ouest,15239,1,12801,2438,       ,       ,       ,       
+Chad,WADI FIRA,Biltine,232171,2,167163,44112,20895,       ,       ,20895
+Chad,WADI FIRA,Dar Tama,246359,2,177378,54199,14782,       ,       ,14782
+Chad,WADI FIRA,Kobé,191628,2,136056,42158,13414,       ,       ,13414
+Chad,WADI FIRA,Mégri,28050,2,21318,5330,1403,       ,       ,1403

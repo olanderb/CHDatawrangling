@@ -1,0 +1,66 @@
+country,adm1,adm2,pop,classif,phase1,phase2,phase3,phase4,phase5,phase35
+Chad,Logone Occidental,Lac Wey,424954,1,373959.52,50994.48,0,0,0,0
+Chad,Logone Occidental,Dodje,136348,1,115895.8,20452.2,0,0,0,0
+Chad,Logone Occidental,Gueni,117955,1,96723.1,21231.9,0,0,0,0
+Chad,Logone Occidental,Ngourkosso,204047,1,171399.48,32647.52,0,0,0,0
+Chad,Logone Oriental,La Pende,205693,2,156326.68,41138.6,8227.72,0,0,8227.72
+Chad,Logone Oriental,Kouh Est,129923,2,100040.71,23386.14,6496.15,0,0,6496.15
+Chad,Logone Oriental,Kouh Ouest,63475,2,46971.5,13964.5,2539,0,0,2539
+Chad,Logone Oriental,La nya,180675,2,140926.5,34328.25,5420.25,0,0,5420.25
+Chad,Logone Oriental,La Nya Pende,138564,2,102537.36,33255.36,2771.28,0,0,2771.28
+Chad,Logone Oriental,Monts de Lam,280727,2,218967.06,61759.94,0,0,0,0
+Chad,Mandoul,Barh Sara,278500,1,228370,50130,0,0,0,0
+Chad,Mandoul,Mandoul Oriental,328322,1,295489.8,32832.2,0,0,0,0
+Chad,Mandoul,Mandoul Occidental,198312,1,166582.08,31729.92,0,0,0,0
+Chad,Tandjile,Tandjile Centre,112819,2,89127.01,21435.61,2256.38,0,0,2256.38
+Chad,Tandjile,Tandjile Ouest,409273,2,311047.48,81854.6,16370.92,0,0,16370.92
+Chad,Tandjile,Tandjile Est,326424,2,251346.48,65284.8,9792.72,0,0,9792.72
+Chad,Chari-Baguirmi,Baguirmi,268847,1,233896.89,34950.11,0,0,0,0
+Chad,Chari-Baguirmi,Loug Chari,238183,1,202455.55,35727.45,0,0,0,0
+Chad,Chari-Baguirmi,Chari,234468,1,201642.48,32825.52,0,0,0,0
+Chad,Mayo Kebbi Est,La Kabbia,293349,1,255213.63,38135.37,0,0,0,0
+Chad,Mayo Kebbi Est,Mayo Boneye,302494,1,266194.72,36299.28,0,0,0,0
+Chad,Mayo Kebbi Est,Mayo Lemye,105183,1,91509.21,13673.79,0,0,0,0
+Chad,Mayo Kebbi Est,Mont Illi,292188,2,222062.88,64281.36,5843.76,0,0,5843.76
+Chad,Mayo-Kebbi Ouest,Lac Lere,224112,2,170325.12,44822.4,8964.48,0,0,8964.48
+Chad,Mayo-Kebbi Ouest,Mayo-Binder,70370,2,53481.2,14777.7,2111.1,0,0,2111.1
+Chad,Mayo-Kebbi Ouest,Mayo Dallah,429119,2,343295.2,81532.61,4291.19,0,0,4291.19
+Chad,Batha,Batha Ouest,253452,2,190089,55759.44,7603.56,0,0,7603.56
+Chad,Batha,Batha Est,231187,2,154895.29,64732.36,11559.35,0,0,11559.35
+Chad,Batha,Fittri,141529,2,113223.2,24059.93,4245.87,0,0,4245.87
+Chad,Barh-El-Gazel,Barh-El-Gazel Nord,79340,3,44430.4,18248.2,15074.6,1586.8,0,16661.4
+Chad,Barh-El-Gazel,Barh-El-Gazel Ouest,69316,2,41589.6,22181.12,5545.28,0,0,5545.28
+Chad,Barh-El-Gazel,Barh-El-Gazel Sud,181141,2,108684.6,59776.53,12679.87,0,0,12679.87
+Chad,Kanem,Nord Kanem,116611,3,61803.83,29152.75,20989.98,4664.44,0,25654.42
+Chad,Kanem,Wadi Bissam,114407,3,53771.29,34322.1,24025.47,2288.14,0,26313.61
+Chad,Kanem,Kanem,196360,3,86398.4,62835.2,45162.8,1963.6,0,47126.4
+Chad,Hadjer-Lamis,Dababa,292843,1,243059.69,49783.31,0,0,0,0
+Chad,Hadjer-Lamis,Dagana,241448,1,205230.8,36217.2,0,0,0,0
+Chad,Hadjer-Lamis,Haraze Al Biar,192379,1,163522.15,28856.85,0,0,0,0
+Chad,Salamat,Bahr Azoum,233576,1,191532.32,42043.68,0,0,0,0
+Chad,Salamat,Aboudeia,82914,2,61356.36,18241.08,3316.56,0,0,3316.56
+Chad,Salamat,Haraze Mangueigne,71038,1,61803.06,9234.94,0,0,0,0
+Chad,Moyen-Chari,Bahr Koh,393263,1,346071.44,47191.56,0,0,0,0
+Chad,Moyen-Chari,Grande Sido,137215,1,116632.75,20582.25,0,0,0,0
+Chad,Moyen-Chari,Lac Iro,223305,1,200974.5,22330.5,0,0,0,0
+Chad,Sila,Djourf Al Ahmar,104513,2,80475.01,18812.34,5225.65,0,0,5225.65
+Chad,Sila,Kimiti,392184,2,294138,70593.12,27452.88,0,0,27452.88
+Chad,Guera,Abtouyour,214637,2,165270.49,32195.55,17170.96,0,0,17170.96
+Chad,Guera,Guera,221065,2,168009.4,48634.3,4421.3,0,0,4421.3
+Chad,Guera,Mangalme,121664,2,75431.68,32849.28,9733.12,3649.92,0,13383.04
+Chad,Guera,Barh Signaka,132772,1,112856.2,19915.8,0,0,0,0
+Chad,Lac,Mamdi,285740,3,137155.2,85722,62862.8,0,0,62862.8
+Chad,Lac,Wayi,270347,3,135173.5,81104.1,54069.4,0,0,54069.4
+Chad,Ouaddai,Abdi,137014,1,117832.04,19181.96,0,0,0,0
+Chad,Ouaddai,Assoungha,366167,1,325888.63,40278.37,0,0,0,0
+Chad,Ouaddai,Ouara,421302,1,358106.7,63195.3,0,0,0,0
+Chad,Wadi Fira,Biltine,216710,2,149529.9,56344.6,10835.5,0,0,10835.5
+Chad,Wadi Fira,Dar Tama,229952,2,170164.48,43690.88,16096.64,0,0,16096.64
+Chad,Wadi Fira,Iriba,178866,2,137726.82,32195.88,8943.3,0,0,8943.3
+Chad,Wadi Fira,Megri,26182,2,20160.14,3927.3,2094.56,0,0,2094.56
+Chad,Ennedi-Est,Am-Djarass,101799,1,85511.16,16287.84,0,0,0,0
+Chad,Ennedi-Est,Wadi Hawar,35754,2,27530.58,7508.34,715.08,0,0,715.08
+Chad,Ennedi Ouest,Fada,50385,2,39804.15,9069.3,1511.55,0,0,1511.55
+Chad,Ennedi Ouest,Mourtcha,27322,2,21311.16,5464.4,546.44,0,0,546.44
+Chad,Borkou,Borkou Yala,32323,1,26504.86,5818.14,0,0,0,0
+Chad,Borkou,Borkou,87645,1,73621.8,14023.2,0,0,0,0

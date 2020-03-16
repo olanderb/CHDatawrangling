@@ -1,0 +1,14 @@
+---
+title: "Consolidating Cadre Harmonisé food security data for West Africa"
+author: "doc"
+date: "December 27, 2018"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## File organisation
+### File naming scheme
+## Geotemplate and p-coding
